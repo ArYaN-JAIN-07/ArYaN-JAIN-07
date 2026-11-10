@@ -1,49 +1,85 @@
 <div align="center">
 
-# `ArYaN`
+# ArYaN
 
-### `</> Building things. Breaking things. Learning things.`
+### SOFTWARE ENGINEERING · DEVELOPMENT · PROBLEM SOLVING
 
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Code.+Debug.+Repeat.;Turning+ideas+into+reality.;One+commit+at+a+time." />
-</p>
+B.Tech Undergraduate at **IIT Mandi**
 
-<br>
+<br/>
 
-🎓 IIT Mandi &nbsp; • &nbsp; 💻 Developer &nbsp; • &nbsp; 🧩 Problem Solver
+Building software, solving problems, and exploring new technologies.
 
-<br>
-
----
-
-### `> A little about me`
-
-```js
-const aryan = {
-    currently: "Building & learning",
-    interests: ["Web Development", "Problem Solving"],
-    mindset: "Always curious, always experimenting",
-    goal: "Build cool things that actually work."
-};
-```
-
----
-
-### `> The journey so far`
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=ArYaN-JAIN-07&show_icons=true&theme=transparent&hide_border=true&title_color=00F7FF&icon_color=00F7FF&text_color=AAAAAA" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArYaN-JAIN-07&layout=compact&theme=transparent&hide_border=true&title_color=00F7FF&text_color=AAAAAA" height="160"/>
-</p>
-
----
-
-<p>
-  <i>Less talking. More building.</i>
-</p>
+<br/>
 
 <a href="https://github.com/ArYaN-JAIN-07">
-  <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
+</div>
+
+<br/>
+
+## TECHNICAL SKILLS
+
+**Programming Languages**
+
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,python,js,solidity,java"/>
+</p>
+
+**Development & Frameworks**
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,react,html,css,fastapi"/>
+</p>
+
+**Databases**
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql"/>
+</p>
+
+**Tools & Platforms**
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,vscode,postman,linux"/>
+</p>
+
+**Libraries**
+
+`NumPy` &nbsp; `Pandas` &nbsp; `Matplotlib`
+
+---
+
+## AREAS OF INTEREST
+
+- Software Engineering & Backend Development
+- Data Structures & Algorithms
+- Competitive Programming
+- Blockchain & Decentralized Finance
+- Machine Learning
+
+---
+
+## GITHUB ANALYTICS
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ArYaN-JAIN-07&show_icons=true&hide_border=true&theme=github_dark&bg_color=0d1117&include_all_commits=true"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArYaN-JAIN-07&layout=compact&hide_border=true&theme=github_dark&bg_color=0d1117"/>
+
+<br/><br/>
+
+<img width="65%" src="https://streak-stats.demolab.com?user=ArYaN-JAIN-07&theme=github-dark-blue&hide_border=true&background=0D1117"/>
+
+</div>
+
+---
+
+<div align="center">
+
+[GitHub](https://github.com/ArYaN-JAIN-07) &nbsp; · &nbsp; IIT Mandi
 
 </div>
