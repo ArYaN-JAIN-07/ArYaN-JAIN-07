@@ -1,6 +1,8 @@
 <div align="center">
 
-# ArYaN
+<h1 align="center">
+  ArYaN<span>_</span>
+</h1>
 
 ### SOFTWARE ENGINEERING · DEVELOPMENT · PROBLEM SOLVING
 
