@@ -52,15 +52,7 @@ Building software, solving problems, and exploring new technologies.
 
 ---
 
-## AREAS OF INTEREST
 
-- Software Engineering & Backend Development
-- Data Structures & Algorithms
-- Competitive Programming
-- Blockchain & Decentralized Finance
-- Machine Learning
-
----
 
 ## GITHUB ANALYTICS
 
