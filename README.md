@@ -70,7 +70,6 @@ Building software, solving problems, and exploring new technologies.
 
 </div>
 
----
 
 <div align="center">
 
