@@ -52,7 +52,7 @@ Building software, solving problems, and exploring new technologies.
 
 `NumPy` &nbsp; `Pandas` &nbsp; `Matplotlib`
 
----
+----
 
 
 
@@ -70,6 +70,7 @@ Building software, solving problems, and exploring new technologies.
 
 </div>
 
+----
 
 <div align="center">
 
